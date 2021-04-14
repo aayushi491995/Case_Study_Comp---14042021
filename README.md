@@ -6,8 +6,8 @@ Date - 14th April 2021
     This Case Study deals with the Regression problem to predict the variable G3 from the given datasource.
 
 ## Files in the Folder
-ipynb - it is the solution file for the Datasets to predict the target variable G3
-dataset - there are two datasets - student-por.csv, student-mat.csv
+ - ipynb - it is the solution file for the Datasets to predict the target variable G3
+ - dataset - there are two datasets - student-por.csv, student-mat.csv
 
 #### Dataset
 #### This project is meant to explore, analyse, visualize and predict the sales of the store:
@@ -61,4 +61,4 @@ dataset - there are two datasets - student-por.csv, student-mat.csv
 
 #### How to use.
     Please download the dataset and ipynb files and run the files in using jupyter notebook in anaconda.
-    Ensure to keep the ipynb files and the dataset files in the same folder else please update the path for the same in pd.read_csv file.
+    Ensure to keep the ipynb files and the dataset files are in the same folder else please update the path for the same in pd.read_csv file.
